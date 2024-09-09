@@ -80,9 +80,5 @@ namespace ExampleProject.Framework.StepDefinitions
             Assert.That(mainPage.State.IsDisplayed, "Main page not displayed");
         }
 
-
-
-
-
     }
 }
